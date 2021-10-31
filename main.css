@@ -111,4 +111,8 @@ h3 {
       #navbar .navbar-toggler {
           margin: auto;
       }
+
+      body {
+        padding-top: calc(10% + 120px);
+    }
   }
