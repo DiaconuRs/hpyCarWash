@@ -22,17 +22,21 @@ hr {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 3.3rem;
     font-family: 'Lobster', cursive;
 }
 
 p, a {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-family: 'Slabo 27px', serif;
 }
 
 h3 {
     font-size: 1.3rem;
+}
+
+h2 {
+    font-size: 2.4rem;
 }
 
 /* NAVBAR */
@@ -89,10 +93,13 @@ h3 {
 
 #secondSection h3 {
     text-align: center;
+    font-size: 1.6rem;
 }
 
 #secondSection {
     background-color:  #228b22;
+    padding-top: 30px;
+    color: whitesmoke;
 }
 
 #secondSection .container {
@@ -123,6 +130,25 @@ h3 {
     border: 1px solid;
     border-radius: 10px;
     box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* FOURTH SECTION */
+
+#fourthSection {
+    background-color: #4D8C57;
+    padding-top: 40px;
+    color: whitesmoke;
+}
+
+#fourthSection .carousel-inner {
+    width: 60%;
+    height: 400px;
+    margin: auto;
+}
+
+#fourthSection h2 {
+    /* text-align: center; */
+    padding-bottom: 30px;
 }
 
   /* MEDIA QUERY */
