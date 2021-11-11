@@ -146,6 +146,10 @@ h2 {
     margin: auto;
 }
 
+#fouthSection .carousel-inner p {
+    font-size: 14px;
+}
+
 #fourthSection h2 {
     /* text-align: center; */
     padding-bottom: 30px;
