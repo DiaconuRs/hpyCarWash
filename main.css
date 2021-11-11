@@ -146,6 +146,11 @@ h2 {
     margin: auto;
 }
 
+#fourthSection button span {
+    position: absolute;
+    top: 0px;
+}
+
 #fourthSection .carousel-inner .smallLong {
     font-size: calc(1rem + 30%);
 }
