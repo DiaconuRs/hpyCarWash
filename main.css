@@ -149,6 +149,7 @@ h2 {
 #fourthSection button span {
     position: absolute;
     top: 0px;
+    bottom: 0px;
 }
 
 #fourthSection .carousel-inner .smallLong {
