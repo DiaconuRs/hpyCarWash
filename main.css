@@ -146,9 +146,14 @@ h2 {
     margin: auto;
 }
 
+#fourthSection .carousel-inner .smallLong {
+    font-size: calc(1.3rem + 60%);
+}
+
 #fourthSection h2 {
     /* text-align: center; */
     padding-bottom: 30px;
+    font-size: calc(1rem + 100%);
 }
 
   /* MEDIA QUERY */
