@@ -10,6 +10,7 @@ img {
 }
 body {
     padding-top: calc(7% + 70px);
+    overflow-x: hidden;
 }
 
 .container, .container-fluid {
@@ -126,7 +127,8 @@ h2 {
 }
 
 #thirdSection img {
-    width: 350px;
+    width: 90%;
+    max-width: 350px;
     border: 1px solid;
     border-radius: 10px;
     box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
@@ -142,7 +144,7 @@ h2 {
 
 #fourthSection .carousel-inner {
     width: 60%;
-    height: 400px;
+    height: auto;
     margin: auto;
 }
 
